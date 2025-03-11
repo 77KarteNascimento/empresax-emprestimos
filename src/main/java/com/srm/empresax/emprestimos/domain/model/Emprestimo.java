@@ -89,6 +89,8 @@ public class Emprestimo {
     public void setDataCriacao(LocalDateTime dataCriacao) {
         this.dataCriacao = dataCriacao;
     }
+
+
 }
 
 
